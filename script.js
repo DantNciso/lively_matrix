@@ -20,7 +20,7 @@ c.height = window.innerHeight;
 c.width = window.innerWidth;
 
 // the characters
-var konkani  = "Buenos Dias!"
+var konkani  = "Caja Popular La Providencia 2024"
 // converting the string into an array of single characters
 var characters = konkani.split("");
 var font_size = 14;
